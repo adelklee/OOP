@@ -1,0 +1,3 @@
+Square square1 = new Square();
+square1.makeVisible();
+square1.slowMoveHorizontal(-100);
