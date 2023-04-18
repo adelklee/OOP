@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Singer
+comment0.text=\r\n\ Details\ of\ a\ singer\ for\ an\ international\ singing\ contest.\r\n\ \r\n\ @author\ Gustavo\ Ruiz\ \r\n\ @version\ 2020.10.07\r\n
+comment1.params=name\ nationality
+comment1.target=Singer(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Singer.\r\n\ @param\ name\ The\ singer's\ name.\r\n\ @param\ nationality\ The\ singers's\ nationality.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Return\ the\ singers's\ name.\r\n\ @return\ the\ name.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNationality()
+comment3.text=\r\n\ Return\ the\ nationality.\r\n\ @return\ the\ nationality.\r\n
+comment4.params=
+comment4.target=int\ getVotes()
+comment4.text=\r\n\ Return\ the\ number\ of\ votes.\r\n\ @return\ the\ number\ of\ votes.\r\n
+comment5.params=amount
+comment5.target=void\ increaseVotes(int)
+comment5.text=\r\n\ Increase\ the\ votes\ by\ the\ given\ amount.\r\n\ @amount\ Number\ of\ votes.\ Must\ be\ greater\ than\ zero.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getDetails()
+comment6.text=\r\n\ Return\ details\ of\ the\ singer,\ their\ nationality\ and\r\n\ the\ number\ of\ votes.\r\n\ @return\ details\ of\ the\ singer.\r\n
+numComments=7

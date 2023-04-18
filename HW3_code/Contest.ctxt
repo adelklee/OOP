@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Contest
+comment1.params=
+comment1.target=Contest()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Contest\r\n
+comment2.params=singer
+comment2.target=void\ addSinger(Singer)
+comment3.params=
+comment3.target=int\ getSize()
+comment4.params=
+comment4.target=void\ list()
+comment5.params=name
+comment5.target=void\ voteFor(java.lang.String)
+comment6.params=minimumVotes
+comment6.target=void\ shortlist(int)
+numComments=7

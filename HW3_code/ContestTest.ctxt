@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ContestTest
+comment0.text=\r\n\ The\ starting\ point\ for\ a\ test\ class.\r\n\ Currently,\ it\ simply\ provides\ a\ fixture\r\n\ to\ help\ with\ development.\r\n\r\n\ @author\ \ Gustavo\ Ruiz\r\n\ @version\ 2020.05.10\r\n
+comment1.params=
+comment1.target=ContestTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ ContestTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n\ Create\ a\ new\ Contest\ and\ Singers\ to\ go\ in\ it.\r\n\ The\ Singers\ are\ not\ added\ to\ the\ list.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+numComments=4
